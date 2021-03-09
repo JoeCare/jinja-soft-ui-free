@@ -1,10 +1,6 @@
-# [Jinja Template](https://appseed.us/jinja-template) Soft UI
+# [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) Jinja
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/). 
-
-<br />
-
-> Features:
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
 - UI Kit: **Soft UI Design System** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
@@ -13,9 +9,7 @@
 
 <br />
 
-> Links
-
-- [LIVE Demo](https://jinja-soft-ui-free.appseed-srv1.com/) - starter in action
+- [Soft UI Design System Jinja - Demo](https://jinja-soft-ui-free.appseed-srv1.com/) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
@@ -224,4 +218,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://appseed.us/jinja-template) Soft UI - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) Jinja - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
