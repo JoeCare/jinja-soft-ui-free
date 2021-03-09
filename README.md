@@ -14,7 +14,7 @@
 
 <br />
 
-## [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system)
+## Soft UI Design System - UI Kit
 
 Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
