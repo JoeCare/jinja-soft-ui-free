@@ -9,16 +9,18 @@
 
 <br />
 
-- [Soft UI Design System Jinja - Demo](https://jinja-soft-ui-free.appseed-srv1.com/) - starter in action
-- More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
+- [Soft UI Design System Flask](https://appseed.us/product/flask-soft-ui-design-system) - product page
+- [Soft UI Design System Django](https://appseed.us/product/django-soft-ui-design-system) - product page
 
 <br />
 
-## Soft UI Design System - UI Kit
+## Want more? Go PRO!
 
-Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
 
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+| [Flask Soft UI PRO](https://appseed.us/product/flask-soft-ui-pro) | [Flask Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro) |
+| --- | --- | --- |
+| [![Flask Soft UI PRO](https://raw.githubusercontent.com/app-generator/soft-ui-design-system/main/media/soft-ui-design-system-screen.png)](https://appseed.us/product/flask-soft-ui-pro) | [![Flask Material PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-pro/master/media/flask-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [![Flask Volt PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt-pro/master/media/flask-dashboard-volt-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)
 
 <br />
 
@@ -208,6 +210,14 @@ Serving on http://localhost:8001
 ```
 
 Visit `http://localhost:8001` in your browser. The app should be up & running.
+
+<br />
+
+## [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) - UI Kit
+
+Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
 <br />
 
