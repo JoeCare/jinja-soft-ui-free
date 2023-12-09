@@ -4,30 +4,18 @@
 
 - UI Kit: **Soft UI Design System** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
-- Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
-- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
-
-<br />
-
-> Links
-
-- [Soft UI Design System Flask](https://appseed.us/product/flask-soft-ui-design-system) - product page
-- [Soft UI Design System Django](https://appseed.us/product/django-soft-ui-design-system) - product page
-
-<br />
-
-## Want more? Go PRO!
-
-PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
+### PRO versions include 🎆 **Premium UI Kits** 🎆 Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
 
 | [Flask Soft UI PRO](https://appseed.us/product/flask-soft-ui-pro) | [Flask Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Volt PRO](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro) |
 | --- | --- | --- |
 | [![Flask Soft UI PRO](https://raw.githubusercontent.com/app-generator/soft-ui-design-system/main/media/soft-ui-design-system-screen.png)](https://appseed.us/product/flask-soft-ui-pro) | [![Flask Material PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-pro/master/media/flask-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [![Flask Volt PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt-pro/master/media/flask-dashboard-volt-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-volt-pro)
 
 <br />
+🥷
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-soft-ui-free/master/media/jinja-soft-ui-free-screen-contact.png)
+[Jinja Template - Starter provided by AppSeed](https://raw.githubusercontent.com/app-generator/jinja-soft-ui-free/master/media/jinja-soft-ui-free-screen-contact.png)
 
+©️
 <br />
 
 ## Build from sources
@@ -108,11 +96,12 @@ The project has a simple structure, represented as bellow:
    |-- ************************************************************************
 ```
 
-<br />
+<br /> ❤️‍🔥
+
 
 ## Deployment
 
-The project comes with a basic configuration for [Docker](https://www.docker.com/), [HEROKU](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
+The project comes with a basic configuration for [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
 
 <br />
 
@@ -137,39 +126,6 @@ $ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose u
 Visit `http://localhost:5005` in your browser. The app should be up & running.
 
 <br />
-
-### [Heroku](https://www.heroku.com/)
----
-
-Steps to deploy on **Heroku**
-
-- [Create a FREE account](https://signup.heroku.com/) on Heroku platform
-- [Install the Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-python#set-up) that match your OS: Mac, Unix or Windows
-- Open a terminal window and authenticate via `heroku login` command
-- Clone the sources and push the project for LIVE deployment
-
-```bash
-$ # Clone the source code:
-$ git clone https://github.com/app-generator/jinja-soft-ui-free.git
-$ cd jinja-soft-ui-free
-$
-$ # Check Heroku CLI is installed
-$ heroku -v
-heroku/7.25.0 win32-x64 node-v12.13.0 # <-- All good
-$
-$ # Check Heroku CLI is installed
-$ heroku login
-$ # this commaond will open a browser window - click the login button (in browser)
-$
-$ # Create the Heroku project
-$ heroku create
-$
-$ # Trigger the LIVE deploy
-$ git push heroku master
-$
-$ # Open the LIVE app in browser
-$ heroku open
-```
 
 <br />
 
@@ -200,7 +156,6 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 Waitress (Gunicorn equivalent for Windows) is meant to be a production-quality pure-Python WSGI server with very acceptable performance. It has no dependencies except ones that live in the Python standard library.
 
 > Install using pip
-
 ```bash
 $ pip install waitress
 ```
@@ -210,24 +165,30 @@ $ pip install waitress
 $ waitress-serve --port=8001 run:app
 Serving on http://localhost:8001
 ```
-
 Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
-
-## [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) - UI Kit
-
-Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
-
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
 <br />
 
-## Credits & Links
+## [Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) - UI Kit 👱‍♀️
+<h4>
+Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.</h4>
+
+
+
+<i> Want more? Go PRO!<i>
+- [Soft UI Design System Flask](https://appseed.us/product/flask-soft-ui-design-system) - product page
+- [Soft UI Design System Django](https://appseed.us/product/django-soft-ui-design-system) - product page
+
+
+## Credits & Links
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The official website
 
 <br />
 
----
-[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) Jinja - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+___
+[Soft UI Design System](https://appseed.us/ui-kit/soft-ui-design-system) 🥷 Jinja - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator) 🧑‍🏭
+🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙 🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙 🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙 🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙 🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙 🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙 🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙🥇🪙 
+
